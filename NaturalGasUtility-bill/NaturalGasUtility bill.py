@@ -3,7 +3,7 @@
 #-----Month------
 January=May=March=August=December=31
 April=June=July=September=October=November=30
-February	=28	
+February=28	
 
 pricePerunit=input("Please enter Priceperunit in terms of m3:")
 monthlyExpense=input("Enter Monthly Expense in terms of m3: ")
